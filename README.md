@@ -2,7 +2,11 @@
 
 Créer simplement un ItemStack grâce à cette class.
 
-__Usage:__
+__Installation :__
+
+Vous devez simplement copier/coller la classe ou son contenu dans votre projet.
+
+__Usage :__
 
 `ItemStack itemStack = 
 new ItemBuilder(Material.WOOL).setAmount(10).setData(15).setName("Ma super laine noire").setLore("Ligne 1", "Ligne 1", "Ligne 1").buildItem();`
