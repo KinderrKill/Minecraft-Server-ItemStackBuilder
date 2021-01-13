@@ -9,7 +9,7 @@ Vous devez simplement copier/coller la classe ou son contenu dans votre projet.
 __Usage :__
 
 `ItemStack itemStack = 
-new ItemBuilder(Material.WOOL).setAmount(10).setData(15).setName("Ma super laine noire").setLore("Ligne 1", "Ligne 1", "Ligne 1").buildItem();`
+new ItemBuilder(Material.WOOL).setAmount(10).setData(15).setName("Nom customisé de l'item").setLore("Ligne 1", "Ligne 2", "Ligne 3").buildItem();`
 
 __Explication :__
 
