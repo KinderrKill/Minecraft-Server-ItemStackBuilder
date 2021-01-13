@@ -21,7 +21,8 @@ __Explication :__
 
 ► `.setLore(String...)`: (*Optionel*) Définit un "lore" à votre item. 
 Vous pouvez mettre autant de String que vous souhaitez, 
-il suffit de faire une séparation avec une **,** \n
+il suffit de faire une séparation avec une **,**
+
 Exemple : `.setLore("Ligne 1", "Ligne 2")` ou `.setLore("Ligne 1", "Ligne 2", "Ligne 3", "Ligne 4")`
 
 ► `.buildItem()` : Obligatoire et à mettre à la fin de votre déclaration, ceci permet de "construire" 
