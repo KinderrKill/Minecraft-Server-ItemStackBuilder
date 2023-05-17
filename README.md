@@ -1,6 +1,6 @@
 # ItemStackBuilder
 
-Créer simplement un ItemStack grâce à cette class.
+Créer simplement un ItemStack côté serveur grâce à cette class.
 
 __Installation :__
 
